@@ -1,0 +1,12 @@
+q1) for(i=1;i<=n;i++) -->n
+         for(j=1;j<=n;j++)--->n
+              pf("hi")
+   
+  Ans: Time complexity is O(n^2)
+  
+  
+  q2) for(i=1;i<=n;i*=3)-->log(n)
+          for(j=1;j<=n;j++)--->n
+                pf("hi");
+  
+  Ans: Time complexity  is O(nlog(n))
